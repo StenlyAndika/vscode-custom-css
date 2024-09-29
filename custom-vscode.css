@@ -79,7 +79,7 @@
 }
 
 /* Scroll Bar */
-.slider {
+/* .slider {
     position: absolute !important;
     right: 1px !important;
     width: 1px !important;
@@ -89,7 +89,7 @@
 
 .codicon-toolbar-more, .codicon-word-wrap {
     display: block !important;
-}
+} */
 
 /* Tooltip box style */
 .monaco-editor-hover,
