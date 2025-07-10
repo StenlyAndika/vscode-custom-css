@@ -8,7 +8,7 @@ Setup
 
 > replace settings.json
 
-Optional: update css location in settings.json
+(Optional) update css location in settings.json
 
 >  "vscode_custom_css.imports": ["file:///C:/vscode-custom-css/custom-vscode.css"]
 
