@@ -2,17 +2,19 @@
 
 ## How to use
 
-Setup
+**Setup**
+
+> Clone this repository
 
 > Install Custom Css and JS Loader
 
 > replace settings.json
 
-(Optional) update css location in settings.json
+**(Optional) update css location in settings.json**
 
 >  "vscode_custom_css.imports": ["file:///C:/vscode-custom-css/custom-vscode.css"]
 
-Activating
+**Activating**
 
 > CTRL+SHIFT+P Choose Enable Custom CSS and JS
 
