@@ -17,7 +17,6 @@
 
 /* File Explorer Selected Item */
 .monaco-list.list_id_1 .monaco-list-row.selected {
-    background-color: #4f5971 !important;
     opacity: 1 !important;
     border-top: 1px #727b90 solid;
     border-bottom: 1px #727b90 solid;

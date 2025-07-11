@@ -3,7 +3,6 @@
     "workbench.colorTheme": "Overdrive",
     "editor.fontSize": 16,
     "files.autoSave": "afterDelay",
-    "workbench.iconTheme": "material-icon-theme",
     "explorer.confirmDelete": false,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "files.associations": {
@@ -13,6 +12,7 @@
     },
     "editor.fontFamily": "Dank Mono",
     "explorer.confirmDragAndDrop": false,
+    "explorer.compactFolders": false,
     "security.workspace.trust.untrustedFiles": "open",
     "editor.fontLigatures": true,
     "window.titleBarStyle": "custom",
@@ -21,7 +21,10 @@
         "source.fixAll": "explicit"
     },
     "workbench.sideBar.location": "right",
-
+    "workbench.activityBar.location": "top",
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.hidesExplorerArrows": true,
     "editor.copyWithSyntaxHighlighting": false,
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.emptySelectionClipboard": false,
@@ -33,12 +36,12 @@
     "editor.detectIndentation": false,
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
-    // "workbench.editor.showTabs": "none",
+    // "workbench.editor.showTabs": "single",
     // "editor.lineNumbers": "off",
     "editor.guides.indentation": false,
 
     "vscode_custom_css.imports": [
-        "file:///C:/VSCode/custom-vscode.css"
+        "file:///C:/vscode-custom-css/custom-vscode.css"
     ],
     "editor.wordWrap": "wordWrapColumn",
 
@@ -65,9 +68,7 @@
     "editor.gotoLocation.multipleImplementations": "goto",
     "editor.gotoLocation.multipleTypeDefinitions": "goto",
     "workbench.settings.applyToAllProfiles": [
-
-
-
+        "default",
     ],
     "dart.lineLength": 120,
     "[dart]": {
@@ -160,7 +161,6 @@
     "editor.padding.top": 16,
     "editor.cursorBlinking": "solid",
     "editor.stickyScroll.enabled": false,
-    // "editor.lineHeight": 24,
 
     "editor.tokenColorCustomizations": {
         "textMateRules": [
@@ -192,5 +192,5 @@
     "git.openRepositoryInParentFolders": "never",
     "editor.dropIntoEditor.preferences": [
 
-    ]
+    ],
 }
