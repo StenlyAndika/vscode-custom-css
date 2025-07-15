@@ -146,11 +146,6 @@
     background: transparent !important;
 }
 
-/* List hover */
-.monaco-list-row:hover {
-    background: rgba(0, 0, 0, .2) !important;
-}
-
 .notifications-toasts .monaco-list-row:hover {
     background: none !important;
 }
